@@ -3,7 +3,7 @@
 ## [Репозиторий](https://github.com/Vit73125/ChooseSpecialisation.git) на GitHub
 
 ## Блок-схема алгоритма
-![](/Images/Выбор\ специализации\ ДЗ\ Алгоритм.jpeg)
+![](/Images/Altorithm.jpeg)
 
 ## Задача
 
